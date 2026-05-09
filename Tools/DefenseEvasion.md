@@ -31,6 +31,7 @@
 | KillAV | Medusa |
 | McAfee OEM Info Copy Files (mcoemcpy.exe) | NailaoLocker | 
 | MSI Afterburner driver (BYOVD) | BlackByte |
+| NsecSoft driver (BYOVD) | Warlock | 
 | NSudo | Royal |
 | PCHunter | LockBit, Conti, 8BASE, TargetCompany, Hive, Qilin, FiveHands, Medusa Locker |
 | PowerTool | BlackSuit, Royal, Akira, Phobos, PLAY, LockBit, Qilin, Avaddon |
