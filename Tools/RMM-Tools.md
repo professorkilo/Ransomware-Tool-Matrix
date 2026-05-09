@@ -52,7 +52,7 @@
 | Syncro | Royal |
 | TacticalRMM | AvosLocker, Scattered Spider* |
 | TeamViewer | LockBit, BianLian, Scattered Spider*, Trigona, Yanluowang, Helldown, Akira |
-| TightVNC | Scattered Spider*, DarkSide, RansomHub |
+| TightVNC | Scattered Spider*, DarkSide, RansomHub, Warlock |
 | TrendMicro Basecamp | Scattered Spider* |
 | Xeox | Scattered Spider* |
 | ZeroTier | Scattered Spider* |
