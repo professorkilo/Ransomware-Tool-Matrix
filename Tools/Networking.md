@@ -8,6 +8,8 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
+| Azure Blog Storage | Warlock |
+| Catbox[.]moe | Warlock |
 | Chisel | BlackSuit, Royal, AvosLocker, Cactus, Yanluowang, QWCrypt, Scattered Spider* |
 | Cloudflared | BlackSuit, Royal, Akira, Scattered Spider*, Medusa, Warlock |
 | FRP | Medusa |
@@ -31,6 +33,7 @@
 | Socat | Scattered Spider* |
 | Sshimpanzee | Scattered Spider* |
 | Stowaway | RansomHub |
+| Supabase | Warlock |
 | Tailscale | Scattered Spider* |
 | Teleport | Scattered Spider* |
 | Termite | Cuba |
@@ -39,3 +42,4 @@
 | Twingate | Scattered Spider* |
 | VS Code Tunnel | Warlock |
 | Windscribe (Wstunnel) | Scattered Spider* |
+| Yuze | Warlock | 
