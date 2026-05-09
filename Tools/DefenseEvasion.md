@@ -39,7 +39,7 @@
 | ProcessHacker | Phobos, LockBit, 8BASE, Zola, Medusa Locker, Interlock |
 | RealBlindingEDR | CosmicBeetle* |
 | Reaper | CosmicBeetle* |
-| Rising Antivirus driver (BYOVD | Warlock | 
+| Rising Antivirus driver (BYOVD) | Warlock | 
 | s4killer (Minifilter Driver) | Embargo |
 | TDSSKiller | LockBit, Avaddon |
 | ThreatFire System Monitor driver (BYOVD) | RansomHub, Interlock |
