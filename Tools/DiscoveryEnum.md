@@ -20,7 +20,7 @@
 | Bloodhound | MAZE, LockBit, Conti, XingLocker, REvil, Hive, Black Basta, Lockean*, FiveHands, Akira |
 | Cent Browser | Yanluowang |
 | Dsquery | RagnarLocker |
-| Everything.exe | NightSpire, Beast, Yurei |
+| Everything.exe | NightSpire, Beast, Yurei, Warlock |
 | Get-ADUser | Scattered Spider* |
 | Lansweeper | EvilCorp* |
 | ldapdomaindump | Akira |
