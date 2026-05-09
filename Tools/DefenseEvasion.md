@@ -8,6 +8,7 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
+| Antiy System In-Depth Analysis Toolkit driver (BYOVD) | Warlock |
 | Avast Anti-Rootkit driver | Cuba, AvosLocker, MONTI |
 | Backstab (Process Explorer driver) | Black Basta, LockBit | 
 | BadRentdrv2 | RansomHub |
@@ -38,6 +39,7 @@
 | ProcessHacker | Phobos, LockBit, 8BASE, Zola, Medusa Locker, Interlock |
 | RealBlindingEDR | CosmicBeetle* |
 | Reaper | CosmicBeetle* |
+| Rising Antivirus driver (BYOVD | Warlock | 
 | s4killer (Minifilter Driver) | Embargo |
 | TDSSKiller | LockBit, Avaddon |
 | ThreatFire System Monitor driver (BYOVD) | RansomHub, Interlock |
